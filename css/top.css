@@ -67,10 +67,6 @@
     background:#ccc;/*ドットボタンの色*/
 }
 
-.slick-dots .slick-active button{
-    background:#333;/*ドットボタンの現在地表示の色koko*/
-}
-
 .flex {
     display: flex;
     width: 1200px;
