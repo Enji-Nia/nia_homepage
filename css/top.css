@@ -28,6 +28,10 @@
     height: auto;
 }
 
+.slick-next:before{
+    margin-left: 50px;
+}
+
 .top-preview {
     width: 94%;
     margin: 0 auto;
@@ -66,6 +70,7 @@
     border-radius:50%;
     background:#ccc;/*ドットボタンの色*/
 }
+
 
 .flex {
     display: flex;
