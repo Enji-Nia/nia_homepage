@@ -28,6 +28,10 @@
     height: auto;
 }
 
+.slick-next:before{
+    margin-left: 50px;
+}
+
 .top-preview {
     width: 94%;
     margin: 0 auto;
@@ -67,9 +71,6 @@
     background:#ccc;/*ドットボタンの色*/
 }
 
-.slick-dots .slick-active button{
-    background:#333;/*ドットボタンの現在地表示の色koko*/
-}
 
 .flex {
     display: flex;
