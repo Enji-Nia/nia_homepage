@@ -1,0 +1,16 @@
+.logo1 {
+    width: 200px;
+    /*margin-left: -50px;*/
+}
+
+.header-list{
+    float: left;
+}
+
+.header-list li{
+    list-style: none;
+    float: left;
+    padding: 10px;
+    font-size: 20px;
+    flex: 10px;
+}
