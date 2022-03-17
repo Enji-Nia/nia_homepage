@@ -14,3 +14,7 @@
     font-size: 20px;
     flex: 10px;
 }
+
+.name li{
+    list-style: none;
+}
