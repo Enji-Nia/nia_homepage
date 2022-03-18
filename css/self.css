@@ -18,3 +18,20 @@
 .name li{
     list-style: none;
 }
+
+.nia{
+    position: relative;
+    background-image: url("../image/nia_profile.png");
+    height: auto;
+}
+
+.background-image{
+    height: 1200;
+    margin: auto;
+}
+.nia-text{
+    position: absolute;
+    top: 200px;
+    left: 280px;
+    font-size: 20px;
+}
