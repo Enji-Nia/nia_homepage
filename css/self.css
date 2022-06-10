@@ -23,7 +23,7 @@
 .nia{
     position: relative;
     background-image: url("../image/nia_profile.png");
-    height: 400px;
+    height: 2000px;
     background-repeat: no-repeat;
     background-size: 100vw, auto, contain;
     width: 100%;
@@ -39,7 +39,7 @@
 .aya{
     position: relative;
     background-image: url("../image/aya_profile.png");
-    height: 400px;
+    height: 2000px;
     background-repeat: no-repeat;
     background-size: 100vw, auto, contain;
     width: 100%;
