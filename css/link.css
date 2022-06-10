@@ -1,0 +1,49 @@
+.logo1 {
+    width: 200px;
+    /*margin-left: -50px;*/
+}
+
+.header-list{
+    float: left;
+}
+
+.header-list li{
+    list-style: none;
+    float: left;
+    padding: 10px;
+    font-size: 20px;
+    flex: 10px;
+}
+
+.nia-link{
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+.nia-link li{
+    list-style: none;
+    /* clear: both; */
+    float: left;
+    margin: 20px;
+}
+
+.nia-link img{
+    width: 200px;
+}
+
+.aya-link{
+    padding-top: 100px;
+    padding-left: 50px;
+    clear: both;
+}
+
+.aya-link li{
+    list-style: none;
+    
+    float: left;
+    margin: 20px;
+}
+
+.aya-link img{
+    width: 200px;
+}
